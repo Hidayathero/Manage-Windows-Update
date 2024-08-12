@@ -1,2 +1,4 @@
-# Manage-Windows-Update
-'''git clone'''
+## Manage-Windows-Update
+
+## instalasi
+```git clone ```
